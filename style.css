@@ -5,7 +5,7 @@ header {
 
 .cabecalho {
     color:white;
-    margin: center;
+    justify-content: center;
 }
 
 .cabecalho-lista-1 {
