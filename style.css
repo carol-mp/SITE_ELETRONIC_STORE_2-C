@@ -11,6 +11,9 @@ header {
 }
 
 .cabecalho-lista-1 {
+     /* color: white;
+    margin-left: 40px;
+    padding: 20px;*/    
     display:inline-block;
     justify-content: center;
     color:white;
@@ -43,7 +46,6 @@ body {
 
 .paragrafo-1 {
     justify-content: center;
-    display: flex;
 }
 
 .titulo-3 {
