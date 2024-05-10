@@ -14,7 +14,7 @@ header {
     justify-content: center;
     color:white;
     margin-left: 296px; /* alinhamento à esquerda */
-    padding: 10px; /* espaçamento vertical */
+    padding: 40px; /* espaçamento vertical */
 }
 
 .cabecalho-lista-2 {
@@ -25,7 +25,7 @@ header {
     justify-content: center;
     color:white;
     margin-left: 296px; /* alinhamento à esquerda */
-    padding: 10px; /* espaçamento vertical */
+    padding: 20px; /* espaçamento vertical */
 }
 
 body {
