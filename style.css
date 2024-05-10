@@ -7,13 +7,14 @@ header {
     color:white;
     text-align: center;
     display: flex;
+    margin-left: 296 px
 }
 
 .cabecalho-lista-1 {
     display:inline-block;
     justify-content: center;
     color:white;
-    margin-left: 296px; /* alinhamento à esquerda */
+    margin-left: 290px; /* alinhamento à esquerda */
     padding: 40px; /* espaçamento vertical */
 }
 
