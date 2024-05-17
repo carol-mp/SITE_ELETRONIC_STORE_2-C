@@ -19,7 +19,7 @@ header {
     color:white;
     margin-left: 260px; /* alinhamento à esquerda */
     padding: 40px; /* espaçamento vertical */
-}
+} 
 
 .cabecalho-lista-2 {
    /* color: white;
@@ -44,6 +44,7 @@ body {
     display:flex;
 }
 
+/*PARAMOS AQUI*/
 .paragrafo-1 {
     text-align: center;
     justify-content: center;
