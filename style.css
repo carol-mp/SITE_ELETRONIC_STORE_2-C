@@ -111,3 +111,19 @@ p {
     justify-content: center;
     padding: 20px;
 }
+
+.preco-1 {
+    width: 25%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 80px;
+    text-align: center;
+}
+
+.preço-2 {
+    width: 25%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 80px;
+    text-align: center;
+}
