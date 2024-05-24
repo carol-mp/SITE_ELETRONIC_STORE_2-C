@@ -57,7 +57,7 @@ body {
 }
 
 .paragrafo-2 {
-    margin-left: 20px;
+    text-align: center;
     justify-content: center;
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 .multimetro {
-    width: 40%;
+    width: 25%;
     margin-right: 30px;
 }
 
